@@ -29,5 +29,7 @@
 确实有看到一些其他 repo 产生的想法，觉得好玩，就搞了个编程相关的自用。
 
 灵感来源（不一一列举）：
-[https://github.com/cft0808/edict](https://github.com/cft0808/edict)
-[https://github.com/wanikua/danghuangshang](https://github.com/wanikua/danghuangshang)
+
+* [https://github.com/cft0808/edict](https://github.com/cft0808/edict)
+
+* [https://github.com/wanikua/danghuangshang](https://github.com/wanikua/danghuangshang)

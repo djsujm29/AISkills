@@ -4,9 +4,27 @@
 
 ## 如何使用
 
-### claude
+### 推荐方式
 
-放进同名文件夹下即可，如 `.cluade/commands/sslb.md`
+直接使用：
+
+```bash
+npx skills add https://github.com/orziz/AISkills
+```
+
+本仓库面向 `skills add` 的安装入口为：
+
+- `skills/<skill-name>/SKILL.md`
+
+当前已提供：
+
+- `skills/sslb/SKILL.md`
+
+### claude（推荐手动安装方式）
+
+手动安装时，放进同名文件夹下即可，如 `.claude/commands/sslb.md`。
+
+如果使用 `npx skills add`，则读取仓库内的标准 skill 目录：`skills/sslb/SKILL.md`。
 
 #### commands
 

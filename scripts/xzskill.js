@@ -74,7 +74,7 @@ function main() {
   for (const filePath of outputs.keys()) {
     console.log(`- ${path.relative(repoRoot, filePath)}`)
   }
-  console.log(`README：${readmeStatus}`)
+  console.log(`- README：${readmeStatus}`)
   console.log('已按最小必要范围完成同步。')
 }
 

